@@ -1,0 +1,23 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "Visitor_Comments",
+  "main": "serverFile.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.14",
+    "querystring": "^0.2.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon serverFile.js"
+  },
+  "keywords": [
+    "visitor",
+    "comments"
+  ],
+  "author": "Alayna",
+  "license": "ISC"
+}
